@@ -4,18 +4,18 @@ class Natural
 public static void main(String)
 {
 Scanner sc=new Scanner(System.in) ;
-System.out.println("ENTER THE NUM");
+System.out.println("ENTER THE NUMBer");
 int num=sc.nextInt();
 
 if(number>0)
 {
-System.out.println("THE NUMB IS NATURAL");
+System.out.println("THE NUMBer IS NATURAL");
 }
 
 
 else
 {
-System.out.println("THE NUM IS NOT NATURAL");
+System.out.println("THE NUMBer IS NOT NATURAL");
 }
 }
 }
